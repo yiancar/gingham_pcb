@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name tartan)(type KiCad)(uri ${KIPRJMOD}/libraries/tartan.pretty)(options "")(descr ""))
+  (lib (name AI03_Random_parts)(type KiCad)(uri ${KIPRJMOD}/libraries/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libraries/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+)
