@@ -1,6 +1,6 @@
-# Tartan Documentation
+# Gingham Documentation
 
-![tartan](./doc/img/tartan.jpg)
+![gingham](./doc/img/gingham.jpg)
 
 ## Assembly
 1. [Check BOM(parts list)](./en/BOM.md)

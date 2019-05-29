@@ -2,7 +2,7 @@
 ## Interactive web page
 - To interactively see the BOM press [here](../../pcb/bom/ibom.html).  
 
-## Included in Tartan kit
+## Included in Gingham kit
 |                                   | Ref         | Qty | Value               | Description                                 |
 |-----------------------------------|-------------|-----|---------------------|---------------------------------------------|
 | ![22pF](../img/parts/P1020154.JPG) | C4, C5      | 2   | 22p                 | Multi layer ceramic capacitor (2.5mm pitch) |

@@ -1,10 +1,11 @@
 EESchema Schematic File Version 4
+LIBS:tartan-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "Tartan"
+Title "Gingham"
 Date "2019-04-18"
 Rev "V1.0"
 Comp "Yiancar Designs"
@@ -1172,31 +1173,31 @@ Wire Wire Line
 Connection ~ 12625 2975
 Wire Wire Line
 	12625 2975 12625 2275
-Text Label 7425 2575 2    50   ~ 6
+Text Label 7425 2575 2    50   ~ 10
 ROW1
-Text Label 7425 3275 2    50   ~ 6
+Text Label 7425 3275 2    50   ~ 10
 ROW2
-Text Label 7625 1175 1    50   ~ 6
+Text Label 7625 1175 1    50   ~ 10
 COL0
-Text Label 8125 1175 1    50   ~ 6
+Text Label 8125 1175 1    50   ~ 10
 COL1
-Text Label 8625 1175 1    50   ~ 6
+Text Label 8625 1175 1    50   ~ 10
 COL2
-Text Label 9125 1175 1    50   ~ 6
+Text Label 9125 1175 1    50   ~ 10
 COL3
-Text Label 9625 1175 1    50   ~ 6
+Text Label 9625 1175 1    50   ~ 10
 COL4
-Text Label 10125 1175 1    50   ~ 6
+Text Label 10125 1175 1    50   ~ 10
 COL5
-Text Label 10625 1175 1    50   ~ 6
+Text Label 10625 1175 1    50   ~ 10
 COL6
-Text Label 11125 1175 1    50   ~ 6
+Text Label 11125 1175 1    50   ~ 10
 COL7
-Text Label 11625 1175 1    50   ~ 6
+Text Label 11625 1175 1    50   ~ 10
 COL8
-Text Label 12125 1175 1    50   ~ 6
+Text Label 12125 1175 1    50   ~ 10
 COL9
-Text Label 12625 1175 1    50   ~ 6
+Text Label 12625 1175 1    50   ~ 10
 COL10
 $Comp
 L power:GND #PWR03
@@ -1209,9 +1210,9 @@ F 3 "" H 2125 2225 50  0001 C CNN
 	1    2125 2225
 	1    0    0    -1  
 $EndComp
-Text Label 3275 1725 0    50   ~ 6
+Text Label 3275 1725 0    50   ~ 10
 USB_D+
-Text Label 3275 1625 0    50   ~ 6
+Text Label 3275 1625 0    50   ~ 10
 USB_D-
 Wire Wire Line
 	3725 5525 3725 5425
@@ -1343,13 +1344,13 @@ Wire Wire Line
 	2725 6225 2825 6225
 Wire Wire Line
 	2725 6325 2825 6325
-Text Label 2825 6225 0    50   ~ 6
+Text Label 2825 6225 0    50   ~ 10
 USB_D+
-Text Label 2825 6325 0    50   ~ 6
+Text Label 2825 6325 0    50   ~ 10
 USB_D-
-Text Label 2825 5825 0    50   ~ 6
+Text Label 2825 5825 0    50   ~ 10
 RESET
-Text Label 2825 5325 0    50   ~ 6
+Text Label 2825 5325 0    50   ~ 10
 ROW3
 $Comp
 L Device:D_Schottky_Small_ALT D15
@@ -1628,7 +1629,7 @@ F 3 "" H 5225 5125 50  0001 C CNN
 	1    5225 5125
 	1    0    0    -1  
 $EndComp
-Text Label 4525 5025 2    50   ~ 6
+Text Label 4525 5025 2    50   ~ 10
 RESET
 Wire Wire Line
 	3125 4625 3125 4025
@@ -1776,31 +1777,31 @@ Wire Wire Line
 	2725 6725 2825 6725
 Wire Wire Line
 	2725 6625 2825 6625
-Text Label 2925 8425 0    50   ~ 6
+Text Label 2925 8425 0    50   ~ 10
 COL0
-Text Label 2825 6425 0    50   ~ 6
+Text Label 2825 6425 0    50   ~ 10
 COL1
-Text Label 2825 5225 0    50   ~ 6
+Text Label 2825 5225 0    50   ~ 10
 COL2
-Text Label 2825 4825 0    50   ~ 6
+Text Label 2825 4825 0    50   ~ 10
 COL3
-Text Label 7425 1875 2    50   ~ 6
+Text Label 7425 1875 2    50   ~ 10
 ROW0
-Text Label 2825 5525 0    50   ~ 6
+Text Label 2825 5525 0    50   ~ 10
 ROW1
-Text Label 2825 6025 0    50   ~ 6
+Text Label 2825 6025 0    50   ~ 10
 ROW0
-Text Label 2825 6125 0    50   ~ 6
+Text Label 2825 6125 0    50   ~ 10
 ROW2
 Wire Wire Line
 	2725 4425 2825 4425
 Wire Wire Line
 	2725 4525 2825 4525
-Text Label 2825 6525 0    50   ~ 6
+Text Label 2825 6525 0    50   ~ 10
 COL4
-Text Label 2825 4725 0    50   ~ 6
+Text Label 2825 4725 0    50   ~ 10
 COL5
-Text Label 2825 6625 0    50   ~ 6
+Text Label 2825 6625 0    50   ~ 10
 COL6
 Wire Wire Line
 	2825 5225 2725 5225
@@ -1814,21 +1815,21 @@ Wire Wire Line
 	2725 5625 2825 5625
 Wire Wire Line
 	2725 5725 2825 5725
-Text Label 2825 4425 0    50   ~ 6
+Text Label 2825 4425 0    50   ~ 10
 COL7
-Text Label 2825 4325 0    50   ~ 6
+Text Label 2825 4325 0    50   ~ 10
 COL8
-Text Label 2825 4525 0    50   ~ 6
+Text Label 2825 4525 0    50   ~ 10
 COL9
-Text Label 2825 6725 0    50   ~ 6
+Text Label 2825 6725 0    50   ~ 10
 COL10
-Text Label 2825 4625 0    50   ~ 6
+Text Label 2825 4625 0    50   ~ 10
 COL11
 Wire Wire Line
 	2825 6025 2725 6025
 Wire Wire Line
 	2725 6125 2825 6125
-Text Label 7425 3975 2    50   ~ 6
+Text Label 7425 3975 2    50   ~ 10
 ROW3
 $Comp
 L power:+5V #PWR011
@@ -1842,11 +1843,11 @@ F 3 "" H 3725 5425 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 1525 4325
-Text Label 2825 5625 0    50   ~ 6
+Text Label 2825 5625 0    50   ~ 10
 i2c_SDA
 Wire Wire Line
 	4425 6425 4425 6525
-Text Label 2825 5725 0    50   ~ 6
+Text Label 2825 5725 0    50   ~ 10
 i2c_SCL
 Wire Wire Line
 	2075 1625 2275 1625
@@ -2008,9 +2009,9 @@ Wire Wire Line
 	3425 9125 3325 9125
 Wire Wire Line
 	1425 8425 1400 8425
-Text Label 900  8525 2    50   ~ 6
+Text Label 900  8525 2    50   ~ 10
 i2c_SCL
-Text Label 900  8425 2    50   ~ 6
+Text Label 900  8425 2    50   ~ 10
 i2c_SDA
 Wire Wire Line
 	2725 6425 2825 6425
@@ -2178,7 +2179,7 @@ Wire Wire Line
 	13025 2575 13525 2575
 Wire Wire Line
 	13025 1875 13525 1875
-Text Label 13125 1175 1    50   ~ 6
+Text Label 13125 1175 1    50   ~ 10
 COL11
 Wire Wire Line
 	13125 2975 13125 2275
@@ -2293,7 +2294,7 @@ Wire Wire Line
 	13525 2575 14025 2575
 Wire Wire Line
 	13525 1875 14025 1875
-Text Label 13625 1175 1    50   ~ 6
+Text Label 13625 1175 1    50   ~ 10
 COL12
 Wire Wire Line
 	13625 2975 13625 2825
@@ -2410,7 +2411,7 @@ Wire Wire Line
 	14025 3275 14525 3275
 Wire Wire Line
 	14025 1875 14525 1875
-Text Label 14125 1175 1    50   ~ 6
+Text Label 14125 1175 1    50   ~ 10
 COL13
 Connection ~ 14125 2975
 Wire Wire Line
@@ -2634,7 +2635,7 @@ Wire Wire Line
 	13025 4375 13025 4475
 Wire Wire Line
 	12625 4375 12625 3675
-Text Label 7425 4675 2    50   ~ 6
+Text Label 7425 4675 2    50   ~ 10
 ROW4
 Wire Wire Line
 	7425 4675 8025 4675
@@ -2985,15 +2986,15 @@ Wire Wire Line
 Wire Wire Line
 	2125 1925 2125 2200
 Connection ~ 2125 1925
-Text Label 2825 5425 0    50   ~ 6
+Text Label 2825 5425 0    50   ~ 10
 ROW4
 Wire Wire Line
 	2825 8425 2925 8425
-Text Label 2925 8525 0    50   ~ 6
+Text Label 2925 8525 0    50   ~ 10
 COL13
 Wire Wire Line
 	2825 8525 2925 8525
-Text Label 2925 8625 0    50   ~ 6
+Text Label 2925 8625 0    50   ~ 10
 COL12
 Wire Wire Line
 	2825 8625 2925 8625
@@ -3020,19 +3021,19 @@ Wire Wire Line
 Connection ~ 1100 8525
 Wire Notes Line
 	475  2500 5725 2500
-Text Notes 4725 2350 0    200  ~ 6
+Text Notes 4725 2350 0    200  ~ 40
 Power
 Wire Notes Line
 	5725 5300 16050 5300
-Text Notes 15125 5250 0    200  ~ 6
+Text Notes 15125 5250 0    200  ~ 40
 Matrix
 Wire Notes Line
 	5725 475  5725 11225
 Wire Notes Line
 	500  7500 5725 7500
-Text Notes 5025 7425 0    200  ~ 6
+Text Notes 5025 7425 0    200  ~ 40
 MCU
-Text Notes 3500 11100 0    200  ~ 6
+Text Notes 3500 11100 0    200  ~ 40
 Port Expander
 $Comp
 L Connector_Generic:Conn_01x04 J3
@@ -3075,12 +3076,14 @@ Wire Wire Line
 	4650 3625 4650 3575
 Wire Wire Line
 	4650 3575 4725 3575
-Text Label 4650 3475 2    50   ~ 6
+Text Label 4650 3475 2    50   ~ 10
 i2c_SCL
 Wire Wire Line
 	4650 3475 4725 3475
-Text Label 4650 3375 2    50   ~ 6
+Text Label 4650 3375 2    50   ~ 10
 i2c_SDA
 Wire Wire Line
 	4650 3375 4725 3375
+Text Notes 2675 10100 0    50   ~ 0
+Address: 0x20
 $EndSCHEMATC
