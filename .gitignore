@@ -1,0 +1,4 @@
+
+*.sh
+*.hex
+/pcb/gerbers/*
