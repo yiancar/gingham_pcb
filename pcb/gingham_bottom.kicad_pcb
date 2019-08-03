@@ -381,7 +381,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2_DIN965_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5CB7C6A2)
-    (at 190.49375 95.24375)
+    (at 188.125 92.7)
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (path /5C122548)
@@ -401,7 +401,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2_DIN965_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5CB7C6AA)
-    (at 190.49375 152.39375)
+    (at 188.125 159.5)
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (path /5C13CC58)
